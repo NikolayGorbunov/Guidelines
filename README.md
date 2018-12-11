@@ -1,11 +1,13 @@
 Guidelines by developing application on Domino in TPS
 ================
 
+# TEST
+
 ## First steps
 
-### ACL Managing
+## ACL Managing
 
-### Building design
+## Building design
 
 ## Troubleshooting
 
