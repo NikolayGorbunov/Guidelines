@@ -1,13 +1,14 @@
 Guidelines by developing application on Domino in TPS
 ================
 
-# TEST
+В данном документе предоставлено руководство по разработке приложений на платформе IBM Domino в компании ТПС.
 
-## First steps
 
-## ACL Managing
+# First steps
 
-## Building design
+# ACL Managing
 
-## Troubleshooting
+# Building design
+
+# Troubleshooting
 
