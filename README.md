@@ -59,12 +59,12 @@
 * uidoc - NotesUIWorkspace
 
 ##### Переменные классов сервисных библиотек
-* f - объекты классов библиотек fbyte
-** fCore - объекты пакета fbyte.core
-** fBase - объекты пакета fbyte.base
-* t - объекты классов библиотек tps
-** tCore - объекты классов библиотек tps.core
-** tWF - объекты классов библиотек tps.workflow
+* f - объекты классов библиотек fbyte  
+  + fCore - объекты пакета fbyte.core  
+  + fBase - объекты пакета fbyte.base  
+* t - объекты классов библиотек tps  
+  + tCore - объекты классов библиотек tps.core  
+  + tWF - объекты классов библиотек tps.workflow  
 
 
 
