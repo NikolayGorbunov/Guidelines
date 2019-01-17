@@ -53,11 +53,12 @@
 ### Именование переменных
 Переменные должны именоваться в стиле lowerCamelCase 
 #### Префиксы
-Имя переменной должно в начале содержать префикс, который описывает суть переменной:
+Имя переменной, которая ссылается на объект, должно в начале содержать префикс, который описывает суть переменной:
 * s   - NotesSession
 * db  - NotesDatabase
 * doc - NotesDocument
 * dc  - NotesDocumentCollection
+* vw  - NotesView
 * ws - NotesWorkspace
 * uidoc - NotesUIWorkspace
 
