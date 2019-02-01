@@ -1,17 +1,17 @@
 # Правила оформления заявок в СУИ JIRA
 ## Содержание
 + Глоссарий
-  - Регистрационная карта
-    + Атрибут
-      - Текстовый
-      - Числовой
-      - Дата и время
-      - Ссылочный
-+ История
-  - Запрос на создание функциональности
-  - Запрос на изменение функциональности
-  - Запрос на удаление функциональности
-+ Подзадача
+  - [Регистрационная карта](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#регистрационная-карта)
+    + [Атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#атрибут)
+      - [Текстовый](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#текстовый)
+      - [Числовой](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#числовой)
+      - [Дата и время](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#дата-и-время)
+      - [Ссылочный](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#ссылочный)
++ [История](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#история)
+  - [Запрос на создание функциональности](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#запрос-на-создание-функциональности)
+  - [Запрос на изменение функциональности](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#запрос-на-изменение-функциональности)
+  - [Запрос на удаление функциональности](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#запрос-на-удаление-функциональности)
++ [Подзадача](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#подзадача)
   - Рабочая область
     - Область навигации
       - Добавить ссылку
@@ -23,10 +23,10 @@
         - Изменить действие
         - Удалить действие
       - Атрибуты
-        - [Добавить текстовый атрибут](https://github.com/DEVTPS/Guidelines/new/master#добавить-текстовый-атрибут)
-        - [Добавить числовой атрибут](https://github.com/DEVTPS/Guidelines/new/master#добавить-числовой-атрибут)
+        - [Добавить текстовый атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-текстовый-атрибут)
+        - [Добавить числовой атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-числовой-атрибут)
         - [Добавить временной атрибут](https://github.com/DEVTPS/Guidelines/new/master#добавить-временной-атрибут)
-        - [Добавить ссылочный атрибут](https://github.com/DEVTPS/Guidelines/new/master#добавить-ссылочный-атрибут)
+        - [Добавить ссылочный атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-ссылочный-атрибут)
         - Изменить атрибут
         - Удалить атрибут
     - Представление
