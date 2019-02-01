@@ -12,28 +12,28 @@
   - [Запрос на изменение функциональности](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#запрос-на-изменение-функциональности)
   - [Запрос на удаление функциональности](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#запрос-на-удаление-функциональности)
 + [Подзадача](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#подзадача)
-  - Рабочая область
-    - Область навигации
-      - Добавить ссылку
-      - Изменить ссылку
-      - Удалить ссылку
-    - Регистрационная карта
-      - Панель действий
-        - Добавить действие
-        - Изменить действие
-        - Удалить действие
-      - Атрибуты
+  - [Рабочая область](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#рабочая-область)
+    - [Область навигации](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#область-навигации)
+      - [Добавить ссылку](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-ссылку)
+      - [Изменить ссылку](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#изменить-ссылку)
+      - [Удалить ссылку](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#удалить-ссылку)
+    - [Регистрационная карта](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#регистрационная-карта-1)
+      - [Панель действий](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#панель-действий)
+        - [Добавить действие](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-действие)
+        - [Изменить действие]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#изменить-действие)
+        - [Удалить действие]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#удалить-действие)
+      - [Атрибуты]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#атрибуты)
         - [Добавить текстовый атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-текстовый-атрибут)
         - [Добавить числовой атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-числовой-атрибут)
         - [Добавить временной атрибут](https://github.com/DEVTPS/Guidelines/new/master#добавить-временной-атрибут)
         - [Добавить ссылочный атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#добавить-ссылочный-атрибут)
-        - Изменить атрибут
-        - Удалить атрибут
-    - Представление
-      - Панель действий
-      - Параметры отбора
-      - Параметры отображения
-    - Отчет
+        - [Изменить атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#изменить-атрибут)
+        - [Удалить атрибут](https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#удалить-атрибут)
+    - [Представление]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#представление)
+      - [Панель действий]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#панель-действий-1)
+      - [Параметры отбора]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#параметры-отбора)
+      - [Параметры отображения]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#параметры-отображения)
+    - [Отчет]|(https://github.com/DEVTPS/Guidelines/blob/master/issue_rules.md#отчет)
 
 ## Глоссарий
 ### Регистрационная карта
